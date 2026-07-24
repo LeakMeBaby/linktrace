@@ -1,4 +1,4 @@
-MIT License
+MIT License (with Non-Commercial Clause)
 
 Copyright (c) 2026 LeakMeBaby
 
@@ -6,16 +6,27 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+copies of the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. STRICTLY NON-COMMERCIAL USE:
+   The Software, as well as any of its parts, modifications, derivative works,
+   or embedded components, may be used, executed, and distributed EXCLUSIVELY
+   for non-commercial, research, personal, or educational purposes. Direct or
+   indirect commercial use (including, but not limited to: sale, paid subscriptions,
+   providing paid services based on the Software, ad monetization, or deployment
+   within commercial products and services) is STRICTLY PROHIBITED without the
+   prior written consent of the copyright holder (LeakMeBaby).
+
+2. MAINTENANCE OF NOTICES:
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software, including any modifications
+   and forks.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS (LEAKMEBABY) BE LIABLE FOR
+ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
