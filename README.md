@@ -1,9 +1,23 @@
 # LinkTrace — OSINT & Link Analysis Platform
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Category](https://img.shields.io/badge/category-OSINT%20%2F%20Forensics-orange.svg)
-![Status](https://img.shields.io/badge/status-in_development-yellow.svg)
+<table>
+  <tr>
+    <td width="130" align="center">
+      <img src="assets/logo.png" alt="LinkTrace Logo" width="100" />
+    </td>
+    <td>
+      <h1>LinkTrace</h1>
+      <p>Платформа для OSINT-расследований, графового анализа цифровых следов и визуализации взаимосвязей между сущностями.</p>
+      <p>
+        <img src="https://img.shields.io/badge/version-0.1.0--alpha-blue.svg" />
+        <img src="https://img.shields.io/badge/license-MIT-green.svg" />
+        <img src="https://img.shields.io/badge/status-🚧_in_development-orange.svg" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 **LinkTrace** — это платформа для проведения OSINT-расследований, графового анализа цифровых следов и визуализации взаимосвязей между сущностями. Инструмент спроектирован для аналитиков киберразведки, форензик-специалистов, расследователей и служб безопасности.
 
