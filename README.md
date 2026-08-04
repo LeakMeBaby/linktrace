@@ -24,7 +24,7 @@
 ### 1. Interactive Graph View (`Graph / Chain`)
 Investigation topology visualization featuring nodes categorized by type and dynamic relationships.
 ![Interactive Graph View](assets/graph_view.png)
-![Interactive Graph View](assets/graph_view_accent.png)
+![Interactive Graph View Accent](assets/graph_view_accent.png)
 
 ### 2. Summary & Data Collection (`Summary / Data Collection`)
 Structured registry of all gathered artifacts with category filtering, validation statuses, and evidence proofs. Includes one-click report copying in a formatted structure.
