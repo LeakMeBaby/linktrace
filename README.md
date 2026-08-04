@@ -30,6 +30,8 @@ Investigation topology visualization featuring nodes categorized by type and dyn
 Structured registry of all gathered artifacts with category filtering, validation statuses, and evidence proofs. Includes one-click report copying in a formatted structure.
 ![Summary View](assets/summary_view.png)
 
+### 3. Canvas Export
+![Canvas Export](assets/canvas_export.png)
 
 ---
 
